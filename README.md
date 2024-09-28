@@ -23,7 +23,7 @@ numpy-financial
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/TEA-of-GDHC-using-DL.git
+git clone https://github.com/SamJWHu/TEA-of-GDHC-using-DL.git
 cd TEA-of-GDHC-using-DL
 Install dependencies:
 pip install -r requirements.txt
