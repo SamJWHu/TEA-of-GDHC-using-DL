@@ -37,7 +37,6 @@ scenarios = [
         'Electricity Output (kW)': lambda t: 5200 + 180 * np.sin(2 * np.pi * t / 8760 + np.pi / 4),
         'Heat Output (kW)': lambda t: 3600 + 130 * np.cos(2 * np.pi * t / 8760 + np.pi / 4)
     },
-    # Add more scenarios as needed
 ]
 
 
